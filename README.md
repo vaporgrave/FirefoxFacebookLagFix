@@ -46,5 +46,4 @@ When you navigate to "https://www.facebook.com" the page will not be pretty, but
 <br>
 <br>
 
-Hopefully this fix works for you.
-Enjoy!
+Hopefully this fix works for you :)
